@@ -127,12 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Solution
-_*
-sample_sol.ipynb
-*sol*.ipynb
-sample_sol.ipynb
-
-old
-old/*
